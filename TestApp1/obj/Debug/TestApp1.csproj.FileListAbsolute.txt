@@ -1,0 +1,6 @@
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\bin\Debug\TestApp1.exe.config
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\bin\Debug\TestApp1.exe
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\bin\Debug\TestApp1.pdb
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\obj\Debug\TestApp1.csprojResolveAssemblyReference.cache
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\obj\Debug\TestApp1.exe
+D:\DevCraft\Visual Studio Projects\DependancyInjection\TestApp1\obj\Debug\TestApp1.pdb
